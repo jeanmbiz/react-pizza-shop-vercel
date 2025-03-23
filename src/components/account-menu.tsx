@@ -27,7 +27,7 @@ export function AccountMenu() {
           </Button>
         </DropdownMenuTrigger>
 
-        <DropdownMenuContent className="w-screen flex flex-col justify-center items-end md:w-8 md:items-start md:w-56" align="end">
+        <DropdownMenuContent className="w-screen flex flex-col justify-center items-end md:w-56 md:items-start" align="end">
           {/* DropdownMenuLabel: item do menu não clicável */}
           <DropdownMenuLabel className="flex flex-col">
             <div className="space-y-1.5">
